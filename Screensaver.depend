@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1452186910 source:/home/raphael/proj/cpp/Screensaver/main.cpp
+	<cstdio>
+	<SDL2/SDL.h>
+	"App.h"
+
+1452188377 /home/raphael/proj/cpp/Screensaver/include/App.h
+	<SDL2/SDL.h>
+	"SierpinskiScreen.h"
+
+1452193391 source:/home/raphael/proj/cpp/Screensaver/src/App.cpp
+	"App.h"
+
+1452186684 source:/home/raphael/proj/cpp/Screensaver/src/Screen.cpp
+	"Screen.h"
+
+1452190506 /home/raphael/proj/cpp/Screensaver/include/Screen.h
+	<SDL2/SDL.h>
+
+1452190582 /home/raphael/proj/cpp/Screensaver/include/SierpinskiScreen.h
+	"Screen.h"
+
+1452193468 source:/home/raphael/proj/cpp/Screensaver/src/SierpinskiScreen.cpp
+	"SierpinskiScreen.h"
+	<cstdio>
+
