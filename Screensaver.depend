@@ -24,3 +24,38 @@
 	"SierpinskiScreen.h"
 	<cstdio>
 
+1452196365 source:/home/raphael/proj/cpp/screensaver/main.cpp
+	<cstdio>
+	<SDL2/SDL.h>
+	"App.h"
+
+1452196365 source:/home/raphael/proj/cpp/screensaver/include/App.h
+	<SDL2/SDL.h>
+	"SierpinskiScreen.h"
+
+1452196365 /home/raphael/proj/cpp/screensaver/include/SierpinskiScreen.h
+	"Screen.h"
+
+1452196365 /home/raphael/proj/cpp/screensaver/include/Screen.h
+	<SDL2/SDL.h>
+
+1452196365 source:/home/raphael/proj/cpp/screensaver/include/Screen.h
+	<SDL2/SDL.h>
+
+1452196365 source:/home/raphael/proj/cpp/screensaver/include/SierpinskiScreen.h
+	"Screen.h"
+
+1452196365 /home/raphael/proj/cpp/screensaver/include/App.h
+	<SDL2/SDL.h>
+	"SierpinskiScreen.h"
+
+1452196365 source:/home/raphael/proj/cpp/screensaver/src/App.cpp
+	"App.h"
+
+1452196365 source:/home/raphael/proj/cpp/screensaver/src/Screen.cpp
+	"Screen.h"
+
+1452196365 source:/home/raphael/proj/cpp/screensaver/src/SierpinskiScreen.cpp
+	"SierpinskiScreen.h"
+	<cstdio>
+
